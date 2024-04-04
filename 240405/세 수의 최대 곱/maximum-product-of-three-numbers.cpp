@@ -32,6 +32,7 @@ int main() {
                 c=v[i];
                 break;
             }
+        
         }
     }
     else {
@@ -40,6 +41,7 @@ int main() {
                 c=v[i];
                 break;
             }
+            c=0;
         }
     }
     
